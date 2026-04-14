@@ -6,7 +6,6 @@ AI Text Assistant is a full-stack web application that uses a locally running la
 
 This project demonstrates integration between a frontend interface, a Node.js/Express backend, and a locally hosted AI model.
 
----
 
 ## Features
 
@@ -17,7 +16,6 @@ This project demonstrates integration between a frontend interface, a Node.js/Ex
 - Full-stack architecture (frontend + backend integration)
 - Runs locally without API keys or external services
 
----
 
 ## Tech Stack
 
@@ -26,7 +24,6 @@ This project demonstrates integration between a frontend interface, a Node.js/Ex
 - AI Model: Ollama (local LLM - gemma:2b or similar)
 - Communication: Fetch API + Server-Sent Events (streaming)
 
----
 
 ## How It Works
 
@@ -39,7 +36,6 @@ This project demonstrates integration between a frontend interface, a Node.js/Ex
 5. Response is streamed back to the frontend
 6. UI displays results in real time
 
----
 
 ## Installation & Setup
 
@@ -52,7 +48,7 @@ Then run a model:
 ```bash
 ollama run gemma:2b
 
-### 2. Clone the repository
+**### 2. Clone the repository**
 git clone https://github.com/Sadieg123/AI-Powered-Feature.git
 cd AI-Powered-Feature
 
