@@ -47,3 +47,5 @@ Then run a model:
 
 ```bash
 ollama run gemma:2b
+
+### 2. Clone the repository 
