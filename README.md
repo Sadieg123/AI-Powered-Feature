@@ -49,6 +49,8 @@ Then run a model:
 
 ollama run gemma:2b
 
+```
+
 ### 2. Clone the repository
 git clone https://github.com/Sadieg123/AI-Powered-Feature.git
 cd AI-Powered-Feature
